@@ -56,10 +56,10 @@ body {
 	align-items: center;
 	background: linear-gradient(#454C5A, #090A0C);
 	box-shadow: 3px 3px 10px darkgrey;
-    height: 70px;
+    height: 45px;
     margin-left: 15px;
     margin-right: 15px;
-    border-radius: 10px;
+    border-radius: 5px;
     color: white;
     font-weight: bold;
     font-size: 1.2em;
@@ -69,8 +69,8 @@ body {
 	background-image: url('assets/images/xcode-ios.png'); 
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 75px;
-    width: 100px;
+    background-size: 80px;
+    width: 110px;
     height: 70px;
 }
 #menu-item-title {
